@@ -11,7 +11,7 @@
 <body>
     <h2>Söluaðilar eldsneytis á Íslandi</h2>
     <div class="myndir">
-    % myndir = ["Ob.jpg","Ao.jpg","Costco.jpg","Dælan.png","N1.png","Orkan.png","OrkanX.png"]
+    % myndir = ["Ob.jpg","Ao.jpg","Costco.jpg","dælan.png","N1.png","Orkan.png","OrkanX.png"]
     % for mynd in myndir:
         <div class="mynd">
         <img src="/static/{{mynd}}">
